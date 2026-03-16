@@ -69,8 +69,8 @@ Key challenge: Modeling promotional markdown events preceding major holidays (Su
         - Mean Absolute Error (MAE): 1592.77
         - R-squared Score: 0.9806
     - **Comparison with Baseline**:
-        - MAE Improvement: (3891.059015672673 - 1592.77)
-        - R2 Improvement: (0.911075075888279 - 0.9806)
+        - MAE Improvement: 2674.64
+        - R2 Improvement: 0.0836
 
 The tuned XGBoost model demonstrated a significant improvement, explaining over 98% of the variance in weekly sales, and its predictions aligned much more closely with actual sales values.
 
@@ -93,7 +93,7 @@ The tuned XGBoost model demonstrated a significant improvement, explaining over 
     - The model was refitted with the optimal parameters from `auto_arima`.
     - Retuned Validation WMAE (original scale): 17248.17
     - Retuned Regular MAE (original scale): 18791.82
-    - **WMAE Improvement**: (21532.16 - 17248.17) (compared to the original SARIMAX).
+    - **WMAE Improvement**: 4283.98 (compared to the original SARIMAX).
         
 ## **5. Collaborative Structure & Contributions**
 To achieve these results, the project was executed by three specialized functional groups:
