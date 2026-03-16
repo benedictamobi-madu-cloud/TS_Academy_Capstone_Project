@@ -150,4 +150,12 @@ The combination of strong feature engineering and robust modeling techniques pro
 - Benedict Chukwuagoziem Amobi-Madu
     - [Email](benedict.amobimadu@gmail.com)
     - [GitHub](https://github.com/benedictamobi-madu-cloud/TS_Academy_Capstone_Project)
-
+- Oresanya Abdulbasit Akorede
+    - [Email](akoredeoresanya100@gmail.com)
+    - [GitHub](https://github.com/Oresco3uk/tsacademy_capstoneproject)
+- Ojo Blessing Oluwatobiloba
+    - [Email](Ojoblessingoluwatobiloba@gmail.com)
+    - [GitHub](https://github.com/Blessing23-bit/Data-science-.git)
+- Oluwafemi Okanlawon
+    - [Email](oluwafemiokans@gmail.com)
+    - [GitHub](https://github.com/Oluwafemiokans/TsAcademy-Capstone-Project)
